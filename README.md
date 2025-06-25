@@ -50,6 +50,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 For any questions or suggestions, feel free to reach out.
 
----
 
-Feel free to modify any sections as needed! Let me know if you need further assistance.
